@@ -1,0 +1,204 @@
+{
+  "team_stats": [
+    {
+      "stat": "FG",
+      "away_team": "56-75",
+      "home_team": "27-32"
+    },
+    {
+      "stat": "FG",
+      "away_team": "31-40",
+      "home_team": "19-25"
+    },
+    {
+      "stat": "2",
+      "away_team": "25-35",
+      "home_team": "8-7"
+    },
+    {
+      "stat": "3",
+      "away_team": "32-25",
+      "home_team": "24-12"
+    },
+    {
+      "stat": "FT",
+      "away_team": "7-10",
+      "home_team": "42-24"
+    },
+    {
+      "stat": "Total Rebounds",
+      "away_team": "49-34",
+      "home_team": "16-17"
+    },
+    {
+      "stat": "Blocks",
+      "away_team": "4-2",
+      "home_team": "20-9"
+    },
+    {
+      "stat": "Steals",
+      "away_team": "6-12",
+      "home_team": "22-27"
+    },
+    {
+      "stat": "FG",
+      "away_team": "19-21",
+      "home_team": "13-7"
+    },
+    {
+      "stat": "FG",
+      "away_team": "10-9",
+      "home_team": "9-7"
+    },
+    {
+      "stat": "2",
+      "away_team": "9-12",
+      "home_team": "4-0"
+    },
+    {
+      "stat": "3",
+      "away_team": "4-1",
+      "home_team": "1-1"
+    },
+    {
+      "stat": "FT",
+      "away_team": "1-2",
+      "home_team": "12-7"
+    },
+    {
+      "stat": "Total Rebounds",
+      "away_team": "13-9",
+      "home_team": "10-4"
+    },
+    {
+      "stat": "Blocks",
+      "away_team": "2-1",
+      "home_team": "1-2"
+    },
+    {
+      "stat": "Steals",
+      "away_team": "2-0",
+      "home_team": "1-6"
+    },
+    {
+      "stat": "FG",
+      "away_team": "18-15",
+      "home_team": "6-8"
+    },
+    {
+      "stat": "FG",
+      "away_team": "8-9",
+      "home_team": "3-6"
+    },
+    {
+      "stat": "2",
+      "away_team": "10-6",
+      "home_team": "3-2"
+    },
+    {
+      "stat": "3",
+      "away_team": "2-6",
+      "home_team": "2-4"
+    },
+    {
+      "stat": "FT",
+      "away_team": "1-1",
+      "home_team": "7-10"
+    },
+    {
+      "stat": "Total Rebounds",
+      "away_team": "8-11",
+      "home_team": "2-3"
+    },
+    {
+      "stat": "Blocks",
+      "away_team": "1-0",
+      "home_team": "4-5"
+    },
+    {
+      "stat": "Steals",
+      "away_team": "2-2",
+      "home_team": "6-3"
+    },
+    {
+      "stat": "FG",
+      "away_team": "11-17",
+      "home_team": "7-8"
+    },
+    {
+      "stat": "FG",
+      "away_team": "9-11",
+      "home_team": "6-6"
+    },
+    {
+      "stat": "2",
+      "away_team": "2-6",
+      "home_team": "1-2"
+    },
+    {
+      "stat": "3",
+      "away_team": "8-8",
+      "home_team": "8-3"
+    },
+    {
+      "stat": "FT",
+      "away_team": "1-1",
+      "home_team": "12-3"
+    },
+    {
+      "stat": "Total Rebounds",
+      "away_team": "13-4",
+      "home_team": "3-6"
+    },
+    {
+      "stat": "Blocks",
+      "away_team": "1-1",
+      "home_team": "7-1"
+    },
+    {
+      "stat": "Steals",
+      "away_team": "1-5",
+      "home_team": "6-8"
+    },
+    {
+      "stat": "FG",
+      "away_team": "8-22",
+      "home_team": "1-9"
+    },
+    {
+      "stat": "FG",
+      "away_team": "4-11",
+      "home_team": "1-6"
+    },
+    {
+      "stat": "2",
+      "away_team": "4-11",
+      "home_team": "0-3"
+    },
+    {
+      "stat": "3",
+      "away_team": "18-10",
+      "home_team": "13-4"
+    },
+    {
+      "stat": "FT",
+      "away_team": "4-6",
+      "home_team": "11-4"
+    },
+    {
+      "stat": "Total Rebounds",
+      "away_team": "15-10",
+      "home_team": "1-4"
+    },
+    {
+      "stat": "Blocks",
+      "away_team": "0-0",
+      "home_team": "8-1"
+    },
+    {
+      "stat": "Steals",
+      "away_team": "1-5",
+      "home_team": "9-10"
+    }
+  ]
+}

@@ -1,0 +1,567 @@
+{
+  "team_info": {
+    "team_name": "lGkISusQ",
+    "team_image_url": "I7jcUCSq-40vp0VEc.png",
+    "team_logo_url": "fcSpOaks",
+    "team_id": "fNGr7j6k-phc5aQcO.png",
+    "player1_id": "6kwWLHl6",
+    "player1_name": "GSHUEIA6-40vp0VEc.png",
+    "player2_id": "IPtzLy4C",
+    "player2_name": "p4aDyJBN-AuKTYK5s.png",
+    "player3_id": "CntvKeJI",
+    "player3_name": "jqj4o9Rq-2sm3dfDt.png",
+    "player4_id": "j5mhp12F",
+    "player4_name": "ziFIxSUH-UJXdVtIC.png",
+    "player5_id": "W21MSYWs",
+    "player5_name": "hCH2iDT0-AuKTYK5s.png",
+    "team_country": "zHGDrK3i",
+    "team_code": "CWibzvne-2sm3dfDt.png",
+    "team_abbr": "CzghfrJC"
+  },
+  "standings_info": {
+    "standings_type": "fcSpOaks",
+    "standings_subtype": "fNGr7j6k-phc5aQcO.png"
+  },
+  "upcoming_matches": [
+    {
+      "timestamp": 769,
+      "status": "?",
+      "result": "upcoming",
+      "event_id": "x86TRiAR",
+      "home_team_id": "CntvKeJI",
+      "away_team_id": "zHGDrK3i",
+      "result_details": ""
+    },
+    {
+      "timestamp": 1702166400,
+      "status": "L",
+      "result": "loss stage-3",
+      "event_id": "fBBV6jY1",
+      "home_team_id": "CntvKeJI",
+      "away_team_id": "fcSpOaks",
+      "result_details": ""
+    },
+    {
+      "timestamp": 1701561600,
+      "status": "W",
+      "result": "win",
+      "event_id": "2DWjEYuS",
+      "home_team_id": "CntvKeJI",
+      "away_team_id": "j5mhp12F",
+      "result_details": ""
+    },
+    {
+      "timestamp": 1700352000,
+      "status": "W",
+      "result": "win",
+      "event_id": "KhcmfDld",
+      "home_team_id": "CzghfrJC",
+      "away_team_id": "CntvKeJI",
+      "result_details": ""
+    },
+    {
+      "timestamp": 1699747200,
+      "status": "L",
+      "result": "otLoss",
+      "event_id": "AJ7D0FBS",
+      "home_team_id": "CntvKeJI",
+      "away_team_id": "6kwWLHl6",
+      "result_details": ""
+    },
+    {
+      "timestamp": 1699228800,
+      "status": "W",
+      "result": "win",
+      "event_id": "8YBDsz5j",
+      "home_team_id": "CntvKeJI",
+      "away_team_id": "W21MSYWs",
+      "result_details": ""
+    },
+    {
+      "timestamp": 615,
+      "status": "?",
+      "result": "upcoming",
+      "event_id": "6o1d5hFm",
+      "home_team_id": "lGkISusQ",
+      "away_team_id": "nD8Kjitk",
+      "result_details": ""
+    },
+    {
+      "timestamp": 1702080000,
+      "status": "W",
+      "result": "win",
+      "event_id": "GKCR7WIe",
+      "home_team_id": "nD8Kjitk",
+      "away_team_id": "IPtzLy4C",
+      "result_details": ""
+    },
+    {
+      "timestamp": 1701475200,
+      "status": "W",
+      "result": "otWin",
+      "event_id": "6owrGfBF",
+      "home_team_id": "fcSpOaks",
+      "away_team_id": "nD8Kjitk",
+      "result_details": ""
+    },
+    {
+      "timestamp": 1700265600,
+      "status": "L",
+      "result": "loss stage-3",
+      "event_id": "zcRHCzND",
+      "home_team_id": "nD8Kjitk",
+      "away_team_id": "lGkISusQ",
+      "result_details": ""
+    },
+    {
+      "timestamp": 1700092800,
+      "status": "W",
+      "result": "win",
+      "event_id": "t2bqegZk",
+      "home_team_id": "IPtzLy4C",
+      "away_team_id": "nD8Kjitk",
+      "result_details": ""
+    },
+    {
+      "timestamp": 1699660800,
+      "status": "W",
+      "result": "win",
+      "event_id": "KUE03HR9",
+      "home_team_id": "nD8Kjitk",
+      "away_team_id": "zHGDrK3i",
+      "result_details": ""
+    },
+    {
+      "timestamp": 615,
+      "status": "?",
+      "result": "upcoming",
+      "event_id": "vHheNBIr",
+      "home_team_id": "j5mhp12F",
+      "away_team_id": "CzghfrJC",
+      "result_details": ""
+    },
+    {
+      "timestamp": 1702166400,
+      "status": "W",
+      "result": "win",
+      "event_id": "nJDGUgQ8",
+      "home_team_id": "fcSpOaks",
+      "away_team_id": "j5mhp12F",
+      "result_details": ""
+    },
+    {
+      "timestamp": 1701907200,
+      "status": "L",
+      "result": "loss stage-3",
+      "event_id": "YeNM8C3k",
+      "home_team_id": "6kwWLHl6",
+      "away_team_id": "j5mhp12F",
+      "result_details": ""
+    },
+    {
+      "timestamp": 1701388800,
+      "status": "L",
+      "result": "loss stage-3",
+      "event_id": "2DWjEYuS",
+      "home_team_id": "CntvKeJI",
+      "away_team_id": "j5mhp12F",
+      "result_details": ""
+    },
+    {
+      "timestamp": 1700352000,
+      "status": "W",
+      "result": "win",
+      "event_id": "McyWIdRd",
+      "home_team_id": "j5mhp12F",
+      "away_team_id": "zHGDrK3i",
+      "result_details": ""
+    },
+    {
+      "timestamp": 1699747200,
+      "status": "W",
+      "result": "win",
+      "event_id": "ILdX4O37",
+      "home_team_id": "j5mhp12F",
+      "away_team_id": "lGkISusQ",
+      "result_details": ""
+    },
+    {
+      "timestamp": 615,
+      "status": "?",
+      "result": "upcoming",
+      "event_id": "Us3LTDuF",
+      "home_team_id": "W21MSYWs",
+      "away_team_id": "6kwWLHl6",
+      "result_details": ""
+    },
+    {
+      "timestamp": 1701993600,
+      "status": "W",
+      "result": "win",
+      "event_id": "YeNM8C3k",
+      "home_team_id": "6kwWLHl6",
+      "away_team_id": "j5mhp12F",
+      "result_details": ""
+    },
+    {
+      "timestamp": 1701388800,
+      "status": "W",
+      "result": "win",
+      "event_id": "OMXnFEQL",
+      "home_team_id": "zHGDrK3i",
+      "away_team_id": "6kwWLHl6",
+      "result_details": ""
+    },
+    {
+      "timestamp": 1700265600,
+      "status": "W",
+      "result": "win",
+      "event_id": "YXvzIGt3",
+      "home_team_id": "6kwWLHl6",
+      "away_team_id": "fcSpOaks",
+      "result_details": ""
+    },
+    {
+      "timestamp": 1700092800,
+      "status": "W",
+      "result": "win",
+      "event_id": "WO0y4rJD",
+      "home_team_id": "6kwWLHl6",
+      "away_team_id": "lGkISusQ",
+      "result_details": ""
+    },
+    {
+      "timestamp": 1699574400,
+      "status": "W",
+      "result": "otWin",
+      "event_id": "AJ7D0FBS",
+      "home_team_id": "CntvKeJI",
+      "away_team_id": "6kwWLHl6",
+      "result_details": ""
+    },
+    {
+      "timestamp": 538,
+      "status": "?",
+      "result": "upcoming",
+      "event_id": "vHheNBIr",
+      "home_team_id": "j5mhp12F",
+      "away_team_id": "CzghfrJC",
+      "result_details": ""
+    },
+    {
+      "timestamp": 1702166400,
+      "status": "W",
+      "result": "win",
+      "event_id": "OMBi6Yas",
+      "home_team_id": "CzghfrJC",
+      "away_team_id": "lGkISusQ",
+      "result_details": ""
+    },
+    {
+      "timestamp": 1701475200,
+      "status": "L",
+      "result": "loss stage-3",
+      "event_id": "SfvvHzd9",
+      "home_team_id": "IPtzLy4C",
+      "away_team_id": "CzghfrJC",
+      "result_details": ""
+    },
+    {
+      "timestamp": 1700179200,
+      "status": "L",
+      "result": "loss stage-3",
+      "event_id": "KhcmfDld",
+      "home_team_id": "CzghfrJC",
+      "away_team_id": "CntvKeJI",
+      "result_details": ""
+    },
+    {
+      "timestamp": 1699747200,
+      "status": "W",
+      "result": "win",
+      "event_id": "SfI81edM",
+      "home_team_id": "CzghfrJC",
+      "away_team_id": "fcSpOaks",
+      "result_details": ""
+    },
+    {
+      "timestamp": 1699142400,
+      "status": "L",
+      "result": "loss stage-3",
+      "event_id": "0Sba5wcc",
+      "home_team_id": "zHGDrK3i",
+      "away_team_id": "CzghfrJC",
+      "result_details": ""
+    },
+    {
+      "timestamp": 500,
+      "status": "?",
+      "result": "upcoming",
+      "event_id": "x86TRiAR",
+      "home_team_id": "CntvKeJI",
+      "away_team_id": "zHGDrK3i",
+      "result_details": ""
+    },
+    {
+      "timestamp": 1702166400,
+      "status": "W",
+      "result": "win",
+      "event_id": "8SECVZA2",
+      "home_team_id": "zHGDrK3i",
+      "away_team_id": "W21MSYWs",
+      "result_details": ""
+    },
+    {
+      "timestamp": 1701561600,
+      "status": "W",
+      "result": "win",
+      "event_id": "KhJI9hlq",
+      "home_team_id": "fcSpOaks",
+      "away_team_id": "zHGDrK3i",
+      "result_details": ""
+    },
+    {
+      "timestamp": 1701388800,
+      "status": "L",
+      "result": "loss stage-3",
+      "event_id": "OMXnFEQL",
+      "home_team_id": "zHGDrK3i",
+      "away_team_id": "6kwWLHl6",
+      "result_details": ""
+    },
+    {
+      "timestamp": 1700265600,
+      "status": "L",
+      "result": "loss stage-3",
+      "event_id": "McyWIdRd",
+      "home_team_id": "j5mhp12F",
+      "away_team_id": "zHGDrK3i",
+      "result_details": ""
+    },
+    {
+      "timestamp": 1699747200,
+      "status": "L",
+      "result": "loss stage-3",
+      "event_id": "KUE03HR9",
+      "home_team_id": "nD8Kjitk",
+      "away_team_id": "zHGDrK3i",
+      "result_details": ""
+    },
+    {
+      "timestamp": 385,
+      "status": "?",
+      "result": "upcoming",
+      "event_id": "ro7PSXfL",
+      "home_team_id": "IPtzLy4C",
+      "away_team_id": "fcSpOaks",
+      "result_details": ""
+    },
+    {
+      "timestamp": 1702080000,
+      "status": "L",
+      "result": "loss stage-3",
+      "event_id": "nJDGUgQ8",
+      "home_team_id": "fcSpOaks",
+      "away_team_id": "j5mhp12F",
+      "result_details": ""
+    },
+    {
+      "timestamp": 1701907200,
+      "status": "W",
+      "result": "win",
+      "event_id": "fBBV6jY1",
+      "home_team_id": "CntvKeJI",
+      "away_team_id": "fcSpOaks",
+      "result_details": ""
+    },
+    {
+      "timestamp": 1701561600,
+      "status": "L",
+      "result": "loss stage-3",
+      "event_id": "KhJI9hlq",
+      "home_team_id": "fcSpOaks",
+      "away_team_id": "zHGDrK3i",
+      "result_details": ""
+    },
+    {
+      "timestamp": 1701388800,
+      "status": "L",
+      "result": "otLoss",
+      "event_id": "6owrGfBF",
+      "home_team_id": "fcSpOaks",
+      "away_team_id": "nD8Kjitk",
+      "result_details": ""
+    },
+    {
+      "timestamp": 1700265600,
+      "status": "L",
+      "result": "loss stage-3",
+      "event_id": "YXvzIGt3",
+      "home_team_id": "6kwWLHl6",
+      "away_team_id": "fcSpOaks",
+      "result_details": ""
+    },
+    {
+      "timestamp": 333,
+      "status": "?",
+      "result": "upcoming",
+      "event_id": "6o1d5hFm",
+      "home_team_id": "lGkISusQ",
+      "away_team_id": "nD8Kjitk",
+      "result_details": ""
+    },
+    {
+      "timestamp": 1702080000,
+      "status": "L",
+      "result": "loss stage-3",
+      "event_id": "OMBi6Yas",
+      "home_team_id": "CzghfrJC",
+      "away_team_id": "lGkISusQ",
+      "result_details": ""
+    },
+    {
+      "timestamp": 1701475200,
+      "status": "W",
+      "result": "win",
+      "event_id": "MDPPAEiQ",
+      "home_team_id": "lGkISusQ",
+      "away_team_id": "IPtzLy4C",
+      "result_details": ""
+    },
+    {
+      "timestamp": 1701302400,
+      "status": "L",
+      "result": "loss stage-3",
+      "event_id": "EmQLBfxK",
+      "home_team_id": "lGkISusQ",
+      "away_team_id": "W21MSYWs",
+      "result_details": ""
+    },
+    {
+      "timestamp": 1700352000,
+      "status": "W",
+      "result": "win",
+      "event_id": "zcRHCzND",
+      "home_team_id": "nD8Kjitk",
+      "away_team_id": "lGkISusQ",
+      "result_details": ""
+    },
+    {
+      "timestamp": 1700092800,
+      "status": "L",
+      "result": "loss stage-3",
+      "event_id": "WO0y4rJD",
+      "home_team_id": "6kwWLHl6",
+      "away_team_id": "lGkISusQ",
+      "result_details": ""
+    },
+    {
+      "timestamp": 308,
+      "status": "?",
+      "result": "upcoming",
+      "event_id": "ro7PSXfL",
+      "home_team_id": "IPtzLy4C",
+      "away_team_id": "fcSpOaks",
+      "result_details": ""
+    },
+    {
+      "timestamp": 1702080000,
+      "status": "L",
+      "result": "loss stage-3",
+      "event_id": "GKCR7WIe",
+      "home_team_id": "nD8Kjitk",
+      "away_team_id": "IPtzLy4C",
+      "result_details": ""
+    },
+    {
+      "timestamp": 1701475200,
+      "status": "L",
+      "result": "loss stage-3",
+      "event_id": "MDPPAEiQ",
+      "home_team_id": "lGkISusQ",
+      "away_team_id": "IPtzLy4C",
+      "result_details": ""
+    },
+    {
+      "timestamp": 1701302400,
+      "status": "W",
+      "result": "win",
+      "event_id": "SfvvHzd9",
+      "home_team_id": "IPtzLy4C",
+      "away_team_id": "CzghfrJC",
+      "result_details": ""
+    },
+    {
+      "timestamp": 1700179200,
+      "status": "L",
+      "result": "loss stage-3",
+      "event_id": "t2bqegZk",
+      "home_team_id": "IPtzLy4C",
+      "away_team_id": "nD8Kjitk",
+      "result_details": ""
+    },
+    {
+      "timestamp": 1699660800,
+      "status": "L",
+      "result": "loss stage-3",
+      "event_id": "EiE42ysG",
+      "home_team_id": "6kwWLHl6",
+      "away_team_id": "IPtzLy4C",
+      "result_details": ""
+    },
+    {
+      "timestamp": 273,
+      "status": "?",
+      "result": "upcoming",
+      "event_id": "Us3LTDuF",
+      "home_team_id": "W21MSYWs",
+      "away_team_id": "6kwWLHl6",
+      "result_details": ""
+    },
+    {
+      "timestamp": 1701993600,
+      "status": "L",
+      "result": "loss stage-3",
+      "event_id": "8SECVZA2",
+      "home_team_id": "zHGDrK3i",
+      "away_team_id": "W21MSYWs",
+      "result_details": ""
+    },
+    {
+      "timestamp": 1701561600,
+      "status": "W",
+      "result": "win",
+      "event_id": "EmQLBfxK",
+      "home_team_id": "lGkISusQ",
+      "away_team_id": "W21MSYWs",
+      "result_details": ""
+    },
+    {
+      "timestamp": 1700352000,
+      "status": "L",
+      "result": "loss stage-3",
+      "event_id": "CSgudZJq",
+      "home_team_id": "fcSpOaks",
+      "away_team_id": "W21MSYWs",
+      "result_details": ""
+    },
+    {
+      "timestamp": 1699660800,
+      "status": "L",
+      "result": "loss stage-3",
+      "event_id": "tvGd4cC3",
+      "home_team_id": "W21MSYWs",
+      "away_team_id": "j5mhp12F",
+      "result_details": ""
+    },
+    {
+      "timestamp": 1698969600,
+      "status": "L",
+      "result": "loss stage-3",
+      "event_id": "8YBDsz5j",
+      "home_team_id": "CntvKeJI",
+      "away_team_id": "W21MSYWs",
+      "result_details": ""
+    }
+  ]
+}
